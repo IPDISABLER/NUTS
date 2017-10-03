@@ -1,6 +1,6 @@
 # NUTS
 
-A Python script that utilizes a multitude of hacking utilities (via the [The Lazy Script](https://github.com/arismelachroinos/lscript)) for massive attacks on singular targets.
+A Python script that utilizes a multitude of hacking utilities (via the [The Lazy Script](https://github.com/arismelachroinos/lscript)) for massive attacks on single or multiple targets.
 
 
 
